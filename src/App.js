@@ -6,7 +6,7 @@ import { useState } from "react";
 import { Web3 } from "web3";
 
 //import the contract addess and the ABI
-const ADDRESS = "0x0bb59675c0B2645387FD58B3DC17543d6c01ad04";
+const ADDRESS = "0x8F49cDd17D63e62954cdE17c3353841417ED208E";
 const ABI = [
 	{
 		"inputs": [],
